@@ -49,7 +49,7 @@ const GRADIENT_BACKGROUND = true;
 
 
 // GRADIENT_BACKGROUND_COLORS -- The two colors that you would like to turn into a gradient.
-const GRADIENT_BACKGROUND_COLORS = [new Color("カラー番号(16進数)")];
+const GRADIENT_BACKGROUND_COLORS = [new Color("カラーコード(16進数)")];
 
 
 // SOLID_BACKGROUND_COLOR -- The solid background color to be applied to the widgets.
